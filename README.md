@@ -1,5 +1,5 @@
 ![Github Banner](https://i.ibb.co/CtRX1Nd/banner-2.png)
-
+![](https://komarev.com/ghpvc/?username=jourfi&style=flat-square)
 ## Who am I?
 
  ```python
