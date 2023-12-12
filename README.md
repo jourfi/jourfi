@@ -1,5 +1,6 @@
 ![Github Banner](https://i.ibb.co/CtRX1Nd/banner-2.png)
 ![](https://komarev.com/ghpvc/?username=jourfi&style=flat-square)
+
 ## Who am I?
 
  ```python
@@ -7,6 +8,7 @@
     user = 'Jourfi Mohamed'
 	current_edu = "SE"
     currently_learning = "Rust"
+
 	hobbies = [
 				'Music 🎵 ',
                          'Coding 👨‍💻',
@@ -20,6 +22,8 @@
 	def Ambitions():
 		SoftwareEngineer()
 		FinishMyProjects()
+	def Owner():
+		DAKAEi.com 
 	
  ```
 
