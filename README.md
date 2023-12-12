@@ -1,6 +1,13 @@
 ![Github Banner](https://i.ibb.co/CtRX1Nd/banner-2.png)
-![](https://komarev.com/ghpvc/?username=jourfi&style=flat-square)
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://komarev.com/ghpvc/?username=jourfi&style=flat-square" />
+  </a>
+</p>
+<br/>
 
+	
 ## Who am I?
 
  ```python
@@ -37,26 +44,15 @@
 ## Programming Languages
 
 <p>
-    <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
- <a href="#"><img alt="C#" src="https://img.shields.io/badge/Csharp%20-%2300599C.svg?logo=c#%2B%2B&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2300599C.svg?logo=python%2B%2B&logoColor=white"></a>
-   <a href="#"><img alt="Php" src="https://img.shields.io/badge/Php%20-%2300599C.svg?logo=php%2B%2B&logoColor=white"></a>
-   <a href="#"><img alt="mysql" src="https://img.shields.io/badge/mysql%20-%2300599C.svg?logo=mysql%2B%2B&logoColor=white"></a>
+	 <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,php,js,css,html" />
+   
 </p>
 
 ## Frameworks and Libraries
+
 <p>
-   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
-   <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
-   <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF0000.svg?logo=laravel&logoColor=white"></a
- <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/symfony-%230069B4.svg?logo=symfony&logoColor=white"></a>
-<a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white"></a>
-<a href="#"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000000.svg?logo=flask&logoColor=white"></a>
+	    <img src="https://skillicons.dev/icons?i=bootstrap,laravel,tailwind,symfony,django,flask" />
+ 
 </p>
 
 ## Operating Systems
