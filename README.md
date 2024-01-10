@@ -1,7 +1,7 @@
 ![Github Banner](https://i.ibb.co/CtRX1Nd/banner-2.png)
 <br/>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://komarev.com/ghpvc/?username=jourfi&style=flat-square" />
   </a>
 </p>
