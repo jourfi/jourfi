@@ -14,7 +14,7 @@
   class WhoAmI:
     user = 'Jourfi Mohamed'
 	current_edu = "SE"
-    currently_learning = "Rust"
+    currently_learning = "AI"
 
 	hobbies = [
 				'Music 🎵 ',
