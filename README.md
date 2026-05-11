@@ -18,13 +18,13 @@
 
 	hobbies = [
 				'Music 🎵 ',
-                         'Coding 👨‍💻',
+ 				'Coding 👨‍💻',
 			 	'Travel ✈️  ',
 			 
 			]
 	
 	def getCity():
-		return Ankara_Turkey()
+		return ¨Paris_France()
 	
 	def Ambitions():
 		SoftwareEngineer()
