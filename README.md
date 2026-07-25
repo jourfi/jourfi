@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=jourfi&style=flat-square" />
+    <img src="https://komarev.com/ghpvc/?username=jourfi&style=flat-square&base=9780" />
   </a>
 </p>
 <br/>
